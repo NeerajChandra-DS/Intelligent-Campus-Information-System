@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Campus Assistant",
+  "description": "An AI-powered web application to assist students with campus-related queries about schedules, events, dining, and more, featuring a conversational chatbot and a comprehensive information dashboard.",
+  "requestFramePermissions": []
+}
